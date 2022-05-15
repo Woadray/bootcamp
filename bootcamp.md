@@ -84,7 +84,7 @@
       [ ] Lecture 39 - Compression, Complexity, and P=NP
       [ ] Lecture 40 - Summary, Fun
 
-## Step 2: Specialization (Choose one)
+## Step 2: Specializations
 
 ### [2.1 University of Helsinki - Full Stack Oppen 2022](https://fullstackopen.com/en/)<br>
 
