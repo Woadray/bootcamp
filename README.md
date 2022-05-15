@@ -87,8 +87,35 @@
 ## Step 2: Specialization (Choose one)
 
 - [ ] [University of Helsinki - Full Stack Oppen 2022](https://fullstackopen.com/en/)<br>
-- [ ] [Berkeley - Data 8: Foundations of Data Science](http://data8.org/fa21/)<br>
 - [ ] [Berkeley - Data 100: Principles and Techniques of Data Science](https://ds100.org/fa21/)<br>
+
+      - [ ] Lecture 01 - Introduction
+      - [ ] Lecture 02 - Data Sampling and Probability I    
+      - [ ] Lecture 03 - Data Sampling and Probability II    
+      - [ ] Lecture 04 - Pandas I    
+      - [ ] Lecture 05 - Pandas II    
+      - [ ] Lecture 06 - Data Cleaning and EDA    
+      - [ ] Lecture 07 - Regex    
+      - [ ] Lecture 08 - SQL I    
+      - [ ] Lecture 09 - SQL II    
+      - [ ] Lecture 10 - Visualization I    
+      - [ ] Lecture 11 - Visualization II    
+      - [ ] Lecture 12 - Modeling    
+      - [ ] Lecture 13 - Simple Linear Regression    
+      - [ ] Lecture 14 - Ordinary Least Squares    
+      - [ ] Lecture 15 - Modeling in Context: Fairness in Housing Appraisal    
+      - [ ] Lecture 16 - Feature Engineering    
+      - [ ] Lecture 17 - Bias and Variance    
+      - [ ] Lecture 18 - Regularization and Cross-Validation    
+      - [ ] Lecture 19 - Guest Lecture: Physical Data and the Climate    
+      - [ ] Lecture 20 - Gradient Descent    
+      - [ ] Lecture 21 - Dimensionality Reduction & PCA    
+      - [ ] Lecture 22 - Logistic Regression I    
+      - [ ] Lecture 23 - Logistic Regression II and Classification    
+      - [ ] Lecture 24 - Decision Trees    
+      - [ ] Lecture 25 - Inference for Modeling    
+      - [ ] Lecture 26 - Clustering    
+      - [ ] Lecture 27 - Guest Lecture: The Social Cost of Carbon 
 
 ## Step 3: Job Search
 
