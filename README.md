@@ -1,6 +1,7 @@
 ## Step 1: Basics
 
 - [ ] [Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
+
       - [ ] Lecture 01 - Introduction.mp4
       - [ ] Lecture 02 - Functions.mp4    
       - [ ] Lecture 03 - Control.mp4    
