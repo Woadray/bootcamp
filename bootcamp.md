@@ -1,4 +1,4 @@
-## [1. Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
+## [Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
 
       [ ] Lecture 01 - Introduction.mp4
       [ ] Lecture 02 - Functions.mp4    
@@ -39,7 +39,7 @@
       [ ] Lecture 37 - OOP Review + Design.mp4    
       [ ] Lecture 38 - Conclusion.mp4
 
-## [2. Berkeley - CS 61B: Data Structures](https://sp21.datastructur.es/)<br>
+## [Berkeley - CS 61B: Data Structures](https://sp21.datastructur.es/)<br>
 
       [ ] Lecture 01 - Introduction                 
       [ ] Lecture 02 - Defining and Using Classes
@@ -82,7 +82,7 @@
       [ ] Lecture 39 - Compression, Complexity, and P=NP
       [ ] Lecture 40 - Summary, Fun
 
-## [3. University of Helsinki - Full Stack Oppen 2022](https://fullstackopen.com/en/)<br>
+## [University of Helsinki - Full Stack Oppen 2022](https://fullstackopen.com/en/)<br>
 
       [ ] Part 00 - Fundamentals of Web apps
       [ ] Part 01 - Introduction to React
@@ -99,7 +99,7 @@
       [ ] Part 12 - Containers
       [ ] Part 13 - Using relational databases
 
-## [4. Berkeley - Data 100: Principles and Techniques of Data Science](https://ds100.org/fa21/)<br>
+## [Berkeley - Data 100: Principles and Techniques of Data Science](https://ds100.org/fa21/)<br>
 
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Data Sampling and Probability I    
