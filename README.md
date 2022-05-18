@@ -1,8 +1,8 @@
 ## [Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
 
-      [ ] Lecture 01 - Introduction + Ch 1.1 + Lab 00.mp4
-      [ ] Lecture 02 - Functions + Ch 1.2 / 1.3 / 1.4 + HW 01.mp4    
-      [ ] Lecture 03 - Control + Ch 1.5 + Lab 01.mp4    
+      [*] Lecture 01 - Introduction + Ch 1.1 + Lab 00.mp4
+      [*] Lecture 02 - Functions + Ch 1.2 / 1.3 / 1.4 + HW 01.mp4    
+      [*] Lecture 03 - Control + Ch 1.5 + Lab 01.mp4    
       [ ] Lecture 04 - Higher Order Functions.mp4    
       [ ] Lecture 05 - Environments.mp4    
       [ ] Lecture 06 - Recursion.mp4    
