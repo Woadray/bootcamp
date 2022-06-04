@@ -119,6 +119,33 @@
       [ ] Lecture 33 - Thread-Level Parallelism I    
       [ ] Lecture 34 - Thread-Level Parallelism II
 
+## [Berkeley - CS186: Introduction to Database Systems](https://cs186berkeley.net/)
+
+      [ ] Lecture 01 - Why Study Databases
+      [ ] Lecture 02 - SQL I      
+      [ ] Lecture 03 - SQL II     
+      [ ] Lecture 04 - Disks, Files and Buffers I    
+      [ ] Lecture 05 - Disks, Files and Buffers II    
+      [ ] Lecture 06 - B+ Trees    
+      [ ] Lecture 07 - Refinements on Indices and B+ Trees    
+      [ ] Lecture 08 - Buffer Management    
+      [ ] Lecture 09 - Sorting and Hashing    
+      [ ] Lecture 10 - Relational Algebra    
+      [ ] Lecture 11 - Iterators and Joins    
+      [ ] Lecture 12 - Parallel Query Processing    
+      [ ] Lecture 13 - Query Optimization I - Plan Space    
+      [ ] Lecture 14 - Query Optimization II - Costs and Search    
+      [ ] Lecture 15 - Unstructured Data - Searching Text    
+      [ ] Lecture 16 - DB Design - Entity-Relationship Models    
+      [ ] Lecture 17 - DB Design - FDs and Normalization    
+      [ ] Lecture 18 - Transactions and Concurrency I    
+      [ ] Lecture 19 - Transactions and Concurrency II    
+      [ ] Lecture 20 - Recovery    
+      [ ] Lecture 21 - Web Crawlers and IR, Parallel Search and Ranking    
+      [ ] Lecture 22 - Distributed Transactions    
+      [ ] Lecture 23 - NoSQL      
+      [ ] Lecture 24 - MapReduce and Spark
+
 ## [University of Helsinki - Full Stack Oppen 2022](https://fullstackopen.com/en/)<br>
 
       [ ] Part 00 - Fundamentals of Web apps
@@ -135,6 +162,38 @@
       [ ] Part 11 - CI/CD
       [ ] Part 12 - Containers
       [ ] Part 13 - Using relational databases
+
+## [MIT - 6.031: Software Construction](http://web.mit.edu/6.031/www/sp22/)
+
+      [ ] Chapter 01 - Static Checking
+      [ ] Chapter 02 - Basic TypeScript
+      [ ] Chapter 03 - Testing
+      [ ] Chapter 04 - Code Review
+      [ ] Chapter 05 - Version Control
+      [ ] Chapter 06 - Specifications
+      [ ] Chapter 07 - Designing Specifications
+      [ ] Chapter 08 - Mutability & Immutability
+      [ ] Chapter 09 - Avoiding Debugging
+      [ ] Chapter 10 - Abstract Data Types
+      [ ] Chapter 11 - Abstraction Functions & Rep Invariants
+      [ ] Chapter 12 - Interfaces, Generics, & Enums
+      [ ] Chapter 13 - Debugging
+      [ ] Chapter 14 - Recursion
+      [ ] Chapter 15 - Equality
+      [ ] Chapter 16 - Map, Filter, Reduce
+      [ ] Chapter 17 - Recursive Data Types
+      [ ] Chapter 18 - Regular Expressions & Grammars
+      [ ] Chapter 19 - Parsers
+      [ ] Chapter 20 - Callbacks & Graphical User Interfaces
+      [ ] Chapter 21 - Concurrency
+      [ ] Chapter 22 - Promises
+      [ ] Chapter 23 - Mutual Exclusion
+      [ ] Chapter 24 - Message Passing
+      [ ] Chapter 25 - Networking
+      [ ] Chapter 26 - Little Languages I
+      [ ] Chapter 27 - Little Languages II
+      [ ] Chapter 28 - Ethical Software Engineering
+      [ ] Chapter 29 - Team Version Control
 
 ## [Berkeley - Data 8 - Foundations of Data Science](http://data8.org/fa21/)<br>
 
