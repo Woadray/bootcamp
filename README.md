@@ -269,3 +269,31 @@
       [ ] Lecture 25 - Inference for Modeling    
       [ ] Lecture 26 - Clustering    
       [ ] Lecture 27 - Guest Lecture: The Social Cost of Carbon
+
+## [Berkeley - CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa21/)
+
+      [ ] Lecture 01 - Introduction
+      [ ] Lecture 02 - Uninformed Search    
+      [ ] Lecture 03 - UCS, A*, and Heuristics    
+      [ ] Lecture 04 - Constraint Satisfaction Problems I    
+      [ ] Lecture 05 - Constraint Satisfaction Problems II    
+      [ ] Lecture 06 - Search with Other Agents I    
+      [ ] Lecture 07 - Search with Other Agents II    
+      [ ] Lecture 08 - Markov Decision Processes I    
+      [ ] Lecture 09 - Markov Decision Processes II    
+      [ ] Lecture 10 - Reinforcement Learning I    
+      [ ] Lecture 11 - Reinforcement Learning II    
+      [ ] Lecture 12 - Probability    
+      [ ] Lecture 13 - Bayesian Networks: Representation    
+      [ ] Lecture 14 - Bayesian Networks: Inference    
+      [ ] Lecture 15 - Bayesian Networks: Independence    
+      [ ] Lecture 16 - Bayesian Networks: Sampling    
+      [ ] Lecture 17 - Decision Networks and VPI    
+      [ ] Lecture 18 - Hidden Markov Models    
+      [ ] Lecture 19 - Particle Filtering    
+      [ ] Lecture 20 - Machine Learning: Naive Bayes    
+      [ ] Lecture 21 - Machine Learning: Perceptrons and Logistic Regression    
+      [ ] Lecture 22 - Machine Learning: Optimization    
+      [ ] Lecture 23 - Machine Learning: Neural Networks    
+      [ ] Lecture 24 - Advanced Applications_ Games and Robotics    
+      [ ] Lecture 25 - Conclusion
