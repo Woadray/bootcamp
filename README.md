@@ -1,48 +1,3 @@
-## [Berkeley - Data 8 - Foundations of Data Science](http://data8.org/fa21/)<br>
-
-      [ ] Lecture 01 - Introduction
-      [ ] Lecture 02 - Cause and Effect 
-      [ ] Lecture 03 - Tables
-      [ ] Lecture 04 - Data Types
-      [ ] Lecture 05 - Building Tables
-      [ ] Lecture 06 - Census
-      [ ] Lecture 07 - Charts
-      [ ] Lecture 08 - Histograms
-      [ ] Lecture 09 - Functions
-      [ ] Lecture 10 - Groups
-      [ ] Lecture 11 - Groups and Pivots
-      [ ] Lecture 12 - Joins and Table Examples
-      [ ] Lecture 13 - Iteration
-      [ ] Lecture 14 - Chance and Sampling
-      [ ] Lecture 14 - Simulations
-      [ ] Lecture 15 - Sampling
-      [ ] Lecture 17 - Assessing Models
-      [ ] Lecture 18 - Decisions and Uncertainty
-      [ ] Lecture 20 - Causality
-      [ ] Lecture 21 - Examples
-      [ ] Lecture 22 - Midterm Review
-      [ ] Lecture 23 - Bootstrap
-      [ ] Lecture 24 - Confidence Intervals
-      [ ] Lecture 25 - Center and Spread
-      [ ] Lecture 26 - The Normal Distribution
-      [ ] Lecture 27 - Sample Means
-      [ ] Lecture 28 - Designing Experiments
-      [ ] Lecture 29 - Correlation
-      [ ] Lecture 29 - Decisions and Uncertainty
-      [ ] Lecture 30 - Linear Regression
-      [ ] Lecture 31 - Least Squares
-      [ ] Lecture 32 - Residuals
-      [ ] Lecture 33 - Regression Inference
-      [ ] Lecture 34 - Privacy
-      [ ] Lecture 35 - Classification
-      [ ] Lecture 36 - Classifiers
-      [ ] Lecture 36 - Classifiers
-      [ ] Lecture 37 - Classifiers II
-      [ ] Lecture 38 - Updating Probabilities
-      [ ] Lecture 39 - Case Studies
-      [ ] Lecture 40 - Algorithmic Bias
-      [ ] Lecture 41 - Conclusion
-
 ## [Berkeley - CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp21/)<br>
 
       [ ] Lecture 01 - Introduction
@@ -180,6 +135,51 @@
       [ ] Part 11 - CI/CD
       [ ] Part 12 - Containers
       [ ] Part 13 - Using relational databases
+
+## [Berkeley - Data 8 - Foundations of Data Science](http://data8.org/fa21/)<br>
+
+      [ ] Lecture 01 - Introduction
+      [ ] Lecture 02 - Cause and Effect 
+      [ ] Lecture 03 - Tables
+      [ ] Lecture 04 - Data Types
+      [ ] Lecture 05 - Building Tables
+      [ ] Lecture 06 - Census
+      [ ] Lecture 07 - Charts
+      [ ] Lecture 08 - Histograms
+      [ ] Lecture 09 - Functions
+      [ ] Lecture 10 - Groups
+      [ ] Lecture 11 - Groups and Pivots
+      [ ] Lecture 12 - Joins and Table Examples
+      [ ] Lecture 13 - Iteration
+      [ ] Lecture 14 - Chance and Sampling
+      [ ] Lecture 14 - Simulations
+      [ ] Lecture 15 - Sampling
+      [ ] Lecture 17 - Assessing Models
+      [ ] Lecture 18 - Decisions and Uncertainty
+      [ ] Lecture 20 - Causality
+      [ ] Lecture 21 - Examples
+      [ ] Lecture 22 - Midterm Review
+      [ ] Lecture 23 - Bootstrap
+      [ ] Lecture 24 - Confidence Intervals
+      [ ] Lecture 25 - Center and Spread
+      [ ] Lecture 26 - The Normal Distribution
+      [ ] Lecture 27 - Sample Means
+      [ ] Lecture 28 - Designing Experiments
+      [ ] Lecture 29 - Correlation
+      [ ] Lecture 29 - Decisions and Uncertainty
+      [ ] Lecture 30 - Linear Regression
+      [ ] Lecture 31 - Least Squares
+      [ ] Lecture 32 - Residuals
+      [ ] Lecture 33 - Regression Inference
+      [ ] Lecture 34 - Privacy
+      [ ] Lecture 35 - Classification
+      [ ] Lecture 36 - Classifiers
+      [ ] Lecture 36 - Classifiers
+      [ ] Lecture 37 - Classifiers II
+      [ ] Lecture 38 - Updating Probabilities
+      [ ] Lecture 39 - Case Studies
+      [ ] Lecture 40 - Algorithmic Bias
+      [ ] Lecture 41 - Conclusion
 
 ## [Berkeley - Data 100: Principles and Techniques of Data Science](https://ds100.org/fa21/)<br>
 
