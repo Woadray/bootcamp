@@ -196,7 +196,7 @@
       [ ] Chapter 28 - Ethical Software Engineering
       [ ] Chapter 29 - Team Version Control
 
-## [Berkeley - Data 8 - Foundations of Data Science](http://data8.org/fa21/)<br>
+## [Berkeley - Data 8: Foundations of Data Science](http://data8.org/fa21/)<br>
 
       [ ] Lecture 01 - Introduction
       [ ] Lecture 02 - Cause and Effect 
