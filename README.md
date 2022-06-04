@@ -198,8 +198,8 @@
 
 ## [Berkeley - Data 8: Foundations of Data Science](http://data8.org/fa21/)<br>
 
-      [ ] Lecture 01 - Introduction
-      [ ] Lecture 02 - Cause and Effect 
+      [ ] Lecture 01 - Introduction / Ch 01 / Lab 01
+      [ ] Lecture 02 - Cause and Effect / Ch 02 / Hw 01
       [ ] Lecture 03 - Tables
       [ ] Lecture 04 - Data Types
       [ ] Lecture 05 - Building Tables
